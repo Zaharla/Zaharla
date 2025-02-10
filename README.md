@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&pause=1000&color=F727B4&width=435&lines=+Hello+and+welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F72EB6&width=435&lines=Hello+and+Welcome+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 🌟 Aspiring Cybersecurity Professional | Code First Girls | MSc Cybersecurity 🎓🔒
 
